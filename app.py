@@ -7,7 +7,7 @@ import numpy as np
 import joblib 
 
 # Load YOLOv8 model (pre-trained on COCO dataset, which includes animals)
-model = YOLO('final_best.pt')
+model = YOLO('model_11.pt')
 
 # Function to detect animals in video
 def detect_animals(video_path):
