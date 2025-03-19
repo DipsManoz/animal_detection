@@ -1,5 +1,6 @@
 mesa
 streamlit
+opencv-python
 opencv-python-headless
 torch
 torchvision
